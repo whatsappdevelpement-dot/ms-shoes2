@@ -1,0 +1,8 @@
+{
+  "name": "Saqib Visual Shoes",
+  "description": "Luxury sneaker store featuring 360 views, premium design, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
